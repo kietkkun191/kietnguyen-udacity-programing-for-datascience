@@ -13,4 +13,4 @@
  - README.md
 
 # Credits
- - Some credit
+ - N/a
